@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masterkim111
 - 👀 I’m interested in reading newspapers, playing tennis
-- 🌱 I’m currently learning physics especially quantum mechanics(rewinding my memory for sure)
+- 🌱 I’m currently an undergraduate majoring in physics and ai semiconductor
 - 💞️ I’m looking to collaborate on solving algorithm problems.
 - 📫 How to reach me --> 15kimhh2@gmail.com
 
